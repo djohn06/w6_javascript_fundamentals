@@ -10,7 +10,7 @@ console.log greeting + name;
 ```
 
 ## Answer:
-The issue is the lack of brackets over 'greeting + name'. The output should be, instead:
+The issue is the lack of brackets over 'greeting + name'. The input to the console should be, instead:
 
 ```javascript
 console.log(greeting + name);
